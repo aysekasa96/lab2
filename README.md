@@ -1,43 +1,22 @@
-📝 Delta Lake ve Azure Synapse Analytics ile Verilerde Dönüşüm
-Proje Hakkında
-Bu proje, Delta Lake teknolojisinin Azure Synapse Analytics ile entegrasyonu üzerine odaklanmaktadır. Hem batch hem de streaming veri işlemlerinde Delta Lake'in sunduğu avantajları ve uygulama adımlarını içermektedir.
+📝 Bestanden opvragen met een serverloze SQL pool
+Over het project
+Dit project richt zich op hoe SQL effectief kan worden uitgevoerd op een datameer door gebruik te maken van een serverloze SQL pool. Ons doel is om gegevens te analyseren door SQL-query's uit te voeren op bestanden in veelgebruikte bestandsformaten.
 
-Proje İçeriği
-Delta Lake ile Veri Göllerine İlişkisel İşlem Desteği:
+Kenmerken
+De nadruk leggen op het belang van SQL in data-analyse.
 
-Veri göllerinde daha güçlü ve düzenli veri yönetimi.
+Gebruik maken van de serverloze SQL pool-functie van Azure Synapse Analytics.
 
-Batch ve Streaming İşlemleri:
+Gegevens opvragen in veelgebruikte bestandsformaten zoals .csv en Parquet.
 
-Streaming veriyi gerçek zamanlı olarak işleme ve batch veriyi hızlı analiz edebilme.
+Projectinhoud
+Basiskennis over serverloze SQL pool.
 
-Spark Kullanımı:
+Gegevensanalyse van bestanden met SQL.
 
-Delta tablolarını oluşturma, sorgulama ve güncelleme.
+Gecomprimeerde en gesegmenteerde formaten (bijv. Parquet) verwerken.
 
-Zaman Yolculuğu:
+Gegevens in JSON-formaat opvragen en analyseren.
 
-Önceki veri sürümlerine erişim sağlama.
-
-Streaming Verilerin İzlenmesi:
-
-Gerçek zamanlı izleme ve yönetim için Delta Lake'in gücü.
-
-Amaç
-Bu proje, veri yönetimini daha esnek ve güçlü bir şekilde yapmayı hedeflemektedir. Delta Lake'in sağladığı özelliklerin nasıl etkili bir şekilde kullanılabileceğini gösterir.
-
-Kurulum
-Projenin çalıştırılması için gerekli adımlar:
-
-Azure Synapse Analytics üzerinde Delta Lake bağlantısı kurun.
-
-Spark ile Delta tablolarını çalıştırın.
-
-Örnek veriyle test edin.
-
-Sonuçlar
-Daha iyi veri yönetimi.
-
-Gerçek zamanlı veri işleme kapasitesi.
-
-Veri versiyonlama ile esneklik.
+Doel
+Met dit project zult u niet alleen uw SQL-vaardigheden verbeteren, maar ook leren hoe u een verbinding kunt maken tussen een serverloze SQL pool en schaalbare bestandopslag.
